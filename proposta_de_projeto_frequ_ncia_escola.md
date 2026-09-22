@@ -2,7 +2,7 @@
 
 **Instituição:** UNINASSAU - Campina Grande  
 **Disciplina:** Extensão  
-**Equipe Desenvolvedora:** Augusto César, Arthur, Joab Pessoa, Michael, Derick e Ramon  
+**Equipe Desenvolvedora:** Augusto César, Arthur Vinícius, Joab Pessoa, Michael, Derick e Ramon  
 **Instituição Parceira:** Colégio Normal  
 
 ---
